@@ -5,7 +5,7 @@ import { FullName } from './Component/Profile/FullName';
 import { ProfilePhoto } from './Component/Profile/ProfilePhoto';
 function App() {
   return (
-    <div class ="body">
+    <div className='body'>
        <Navbar bg="dark" variant="dark">
     <Container>
     <Navbar.Brand href="#home">Profil</Navbar.Brand>
